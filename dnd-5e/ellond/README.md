@@ -6,8 +6,13 @@
 
 ## Maps
 
-[Antique Map](./ellond-map-antique.html) generated using [donjon Fantasy World Generator](https://donjon.bin.sh/fantasy/world/)
-[Atlas Map](./ellond-map-atlas.html) generated using [donjon Fantasy World Generator](https://donjon.bin.sh/fantasy/world/)
+Both maps were made with the [donjon Fantasy World Generator](https://donjon.bin.sh/fantasy/world/).
+Each comes as an interactive page (download it and open it in a browser; GitHub shows only its source) and as a plain image:
+
+- Antique map: [interactive](./ellond-map-antique.html), [image](./ellond-map-antique.png)
+- Atlas map: [interactive](./ellond-map-atlas.html), [image](./ellond-map-atlas.png)
+
+The maps are donjon's work, licensed [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/).
 
 Parameters used for map generation:
 
@@ -16,7 +21,16 @@ Parameters used for map generation:
 | Atlas | 235791113 | 56 | 0 | Default | Yes | Yes | Yes | &#9745; | &#9745; |
 | Antique | 235791113 | 56 | 0 | English Runes | Yes | Yes | Yes | &#9745; | &#9745; |
 
-## Ellondian Dieties
+## Calendar
+
+[calendar.json](./calendar.json) was made with the [donjon Fantasy Calendar Generator](https://donjon.bin.sh/fantasy/calendar/), and that page can load it.
+The current year is 568.
+
+- A year is 396 days: nine months of 44 days (Rariel, Gagadr, Gielat, Alphon, Jundej, Illyrie, Jhamua, Malaph, Aron).
+- A week is 7 days: Aran, Rielach, Asdel, Achiel, Gadrael, Dielaph, Andam.
+- Five moons: Ibil (13-day cycle), Rielyr (34), Sacha (39), Isran (58) and Samua (60).
+
+## Ellondian Deities
 
 | Name | Rank | Alignment | Portfolio | Domain | Worshipers |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -81,7 +95,7 @@ Parameters used for map generation:
 | [Velsharoon](https://www.thievesguild.cc/gods/god?godid=139) | D | NE | Necromancy, necromancers, liches, undeath | Magic, Undeath | Liches, necromancers, seekers of immortality through undeath, Cult of the Dragon |
 | [Waukeen](https://www.thievesguild.cc/gods/god?godid=111) | L | N | Trade, money, wealth | Balance, Envy, Pride, Protection, Sloth, Travel, Trade | Shopkeepers, merchants, guides, peddlers, moneychangers, smugglers
 
-## Race Specific Dieties
+## Race-Specific Deities
 
 ### Drow (the Dark Seldarine)
 
